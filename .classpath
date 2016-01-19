@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="lib" path="lib/je-5.0.103.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="http://docs.oracle.com/cd/E17277_02/html/java/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="lib/je-android-5.0.103.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/xstream-1.4.7.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/kxml2-2.3.0.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="lib/substance-7.2.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/substance-7.2.1-tools.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/substance-swingx-7.2.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/substance-theme-pack-tst.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/laf-widget-7.2.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/laf-plugin-7.2.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/trident-7.2.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/swingx-1.6.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/miglayout-4.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/bcprov-ext-jdk15on-152b01.jar"/>
+	<classpathentry kind="lib" path="lib/brownies-collections-0.9.7.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

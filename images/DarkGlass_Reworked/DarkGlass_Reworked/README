@@ -1,0 +1,58 @@
+Installation:
+The 2 build scripts depends on python Image library or 'convert', which is part of ImageMagick.
+
+To install this set:
+1. download the zip file
+2. extract the zip file
+3. cd into the DarkGlass_Reworked folder
+4. open a terminal there
+5. run "python buildset.py DarkGlass_Reworked"
+   or "./buildset" for the old script (the python script is just faster)
+6. get a beer, coffee, tea?
+7. Install the icon theme in KDE Control Panel
+8. Enjoy
+
+
+Note: if you want to change the color of the default (darkGrey) folder, you need to 
+do this before to launch the script.
+Go in the DarkGlass_Reworked/128x128/filesystem folder, take es: the blue_folder, 
+copy this in other location and change the name in "folder".
+Copy this picture in DarkGlass_Reworked/128x128/filesystem/ and in DarkGlass_Reworked/128x128/actions/.
+Now the default color for simple folder is the blue.
+
+
+This icon set is an implementation of many 3d icons directly produced from mentalrey (me) and some Os-K icon, 
+the target is to have many icons whth glass/metal effect (not too much photorealistic). 
+Normally I prefer to use icons from 72 to 128 pixel, I hope you like it.
+
+99% of this set is GPL now and what's not is most likely creative commons 
+(a tiny number of the mime types may be proprietary). 
+PLEASE abide by the licence rules, if you use icons from this set please research and credit 
+the appropriate people. I have been given permission to release other peoples art work under 
+the GPL so respect the licence.
+
+Enjoy ")
+
+*Credits must go to:
+*Mentalrey for many glass icons.
+
+*AleXander Kirichev for Slackware kmenu icon.
+*Amira Julia for the original art work that provided some printer and desktop icons.
+*Dirceu for the user avatars.
+*EKrava for the kmenu_Kubuntu icon.
+*Everaldo Coelho (realistiK & Crystal) - Ultra high quality open source icons.
+*Everaldo for the emotions.
+*Futurosoft for a couple of their GPL icons.
+*Guppetto (OS-L) - for (among other things) the best folder icons ever.
+*hammergom for kde_fedora icon, K3B, XGame and many icons from his Crystal Glossy set.
+*Keyser Soze for the Debian kmenu.
+*Marco Martin (Glaze) - for many actions.
+*Marco Martin for the kwifi icons.
+*Marc Mironescu for some email icon.
+*Matias Costa for creating some folder open and folder locked icons.
+*Rowancompsciguy for the laptop battery icons
+*Yaco for the Skype icon.
+
+
+
+

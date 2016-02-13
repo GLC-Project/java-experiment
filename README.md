@@ -1,4 +1,4 @@
-GoldCoin (gldcoin.com) Experimental Java Development
+GoldCoin (gldcoin.com) Experimental Java Client
 
 Notes:
 

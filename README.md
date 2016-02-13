@@ -1,4 +1,4 @@
-GoldCoin (gldcoin.com) Version 2.0 Pre-Alpha/Development
+GoldCoin (gldcoin.com) Experimental Java Development
 
 Notes:
 
